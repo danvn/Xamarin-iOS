@@ -1,0 +1,9 @@
+/Users/dannguyen/Projects/XamariniOSApp/XamariniOSApp/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/dannguyen/Projects/XamariniOSApp/XamariniOSApp/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/dannguyen/Projects/XamariniOSApp/XamariniOSApp/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/dannguyen/Projects/XamariniOSApp/XamariniOSApp/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/dannguyen/Projects/XamariniOSApp/XamariniOSApp/obj/iPhoneSimulator/Debug/optimized/
+/Users/dannguyen/Projects/XamariniOSApp/XamariniOSApp/bin/iPhoneSimulator/Debug/XamariniOSApp.exe.mdb
+/Users/dannguyen/Projects/XamariniOSApp/XamariniOSApp/bin/iPhoneSimulator/Debug/XamariniOSApp.exe
+/Users/dannguyen/Projects/XamariniOSApp/XamariniOSApp/obj/iPhoneSimulator/Debug/XamariniOSApp.exe
+/Users/dannguyen/Projects/XamariniOSApp/XamariniOSApp/obj/iPhoneSimulator/Debug/XamariniOSApp.exe.mdb
